@@ -238,6 +238,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [DeepL Write](https://www.deepl.com/write) — AI writing tool focused on improving clarity and natural style. `#free`
 - [Wordtune](https://wordtune.com) — Rewrite and rephrase sentences with deep context awareness. `#free`
 - [QuillBot](https://quillbot.com) — Paraphrasing, summarization, grammar checking, and citation tools. `#free`
+- [AI eBook Pro](https://aiebookpro.com) — Turn a one-sentence idea into a complete, downloadable ebook (PDF, EPUB, DOCX) with AI-generated content and covers. `#free`
 
 ### SEO & Long-Form Content
 
